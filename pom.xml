@@ -301,7 +301,7 @@
         <surefire.version>2.22.0</surefire.version>
         <awaitility.version>3.1.0</awaitility.version>
         <metrics-clojure.version>2.5.1</metrics-clojure.version>
-        <hdrhistogram.version>2.1.10</hdrhistogram.version>
+        <hdrhistogram.version>2.1.12</hdrhistogram.version>
         <hamcrest.version>2.0.0.0</hamcrest.version>
         <cassandra.version>2.1.7</cassandra.version>
         <druid.version>0.8.2</druid.version>
